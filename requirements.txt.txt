@@ -1,0 +1,11 @@
+numpy==1.24.2
+pandas==1.5.3
+matplotlib==3.7.1
+seaborn==0.12.2
+opencv-python==4.7.0.72
+scikit-learn==1.2.2
+tensorflow==2.13.0
+torch==2.0.1
+transformers==4.31.0
+Pillow==9.5.0
+keras_vit==0.37.1
