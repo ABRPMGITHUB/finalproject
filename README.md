@@ -53,7 +53,7 @@ Ensure you have the following packages installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/bone-fracture-identification.git
+   git clone https://github.com/ABRPMGITHUB/finalproject.git
 2. Install the required libraries from the requirements.txt
 3. Go the folder where the repository is cloned.
 4. Open the final code file in jupyter notebook.
